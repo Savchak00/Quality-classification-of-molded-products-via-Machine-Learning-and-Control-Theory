@@ -36,7 +36,8 @@ First of data analysis stage was conducted, where standardizing and normalizing 
 
 
 Then, various machine learning techniques are employed and compared:
-* Classification models, including Logistic Regression, Ridge Classifier, Decision Trees, Random Forest, Gradient Boosting, XGBoost, SVM Classifier, and K-Nearest Neighbors (KNN). * * * Regression models; Linear Regression, Polynomial Regression, Ridge Regression, Lasso Regression, Decision Tree Regressor, Random Forest Regressor, Gradient Boosting Regressor, XGBoost Regressor and SVM Regressor, with rounding predicted values to closest integer to use them for classification task.
+* Classification models, including Logistic Regression, Ridge Classifier, Decision Trees, Random Forest, Gradient Boosting, XGBoost, SVM Classifier, and K-Nearest Neighbors (KNN).
+* Regression models; Linear Regression, Polynomial Regression, Ridge Regression, Lasso Regression, Decision Tree Regressor, Random Forest Regressor, Gradient Boosting Regressor, XGBoost Regressor and SVM Regressor, with rounding predicted values to closest integer to use them for classification task.
 * Control theory algorithms: PCA-based algorithm with a Kalman filter and a Random Forest Classifier, same algorithm with an entropy-based feature selection and RT-based algorithm that leverages a tree growth process followed by SVM Regression for dataset partitioning at each leaf node.
 
 
