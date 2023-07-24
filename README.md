@@ -1,5 +1,9 @@
 # Quality classification of molded products via Machine Learning and Control Theory
 
+## Welcome
+
+Following text gives basic information about work. More specific information can be found at [report](report.pdf).
+
 ## Table of contents
 * [Introduction](#introduction)
 * [Technologies](#technologies)
